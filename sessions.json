@@ -1,0 +1,31 @@
+{
+  "sessions": [
+    {
+      "id": "631855340:631855340",
+      "data": {
+        "__scenes": {},
+        "adminSession": {
+          "activeChats": {}
+        }
+      }
+    },
+    {
+      "id": "5284205318:5284205318",
+      "data": {
+        "__scenes": {},
+        "type": "question",
+        "isWaitingForAdmin": true,
+        "adminSession": {
+          "activeChats": {
+            "5284205318": {
+              "userId": 5284205318,
+              "messageId": 122,
+              "text": "Vm fpdpdpd",
+              "type": "question"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
